@@ -1,0 +1,56 @@
+img
+{
+    width: 30%;
+    height: 300px;
+  border-radius: 40%;
+  margin-bottom: 20px;
+}
+.row
+{
+    text-align: center;
+    margin-top: 50px;
+        /*
+* Created with https://www.css-gradient.com
+* Gradient link: https://www.css-gradient.com/?c1=7de3f6&c2=f6f6f6&gt=l&gd=dbr
+*/
+background: #7DE3F6;
+background: linear-gradient(315deg, #7DE3F6, #F6F6F6);
+}
+#content
+{
+    font-size: 20px;
+    color:rgb(2, 2, 58);
+}
+#head1{
+color: rgb(2, 84, 78);
+}
+#head2
+{
+    color: rgb(2, 84, 78);
+}
+a
+{
+    /* margin-bottom: 100px; */
+    text-decoration: none;
+    font-size: 25px;
+    padding: 25px;
+    color: rgb(2, 84, 78);
+}
+a:hover{
+    color:rgb(2, 2, 58);
+    text-decoration: none;
+}
+header{
+    background: #7DE3F6;
+    height:50px;
+    text-align: center;
+   
+}
+footer
+{
+    background: #7DE3F6;
+    height:30px;
+    text-align: center;
+    font-size: 20px;
+    color:rgb(2, 2, 58);
+}
